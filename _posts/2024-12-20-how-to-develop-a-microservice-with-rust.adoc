@@ -1,0 +1,19 @@
+= Comment développer un micorservice avec Rust
+
+== Introduction
+D'où me vient cette idée
+
+== Objectifs
+
+== Quelques éléments de langage
+
+* Les types
+* structures de contrôles
+* Les boucles
+* Les structs
+* Les traits
+
+== Le borrow checker: Principe clef
+
+== Choix des librairies (crates)
+
